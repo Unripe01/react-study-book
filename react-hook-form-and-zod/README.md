@@ -1,0 +1,6 @@
+react-hook-formを使って、
+バリデーションスキーマをzodに任せるプロジェクト
+
+useFormのresolverにzodResolverを使っている。
+zodResolverの利用には@hookform/resolvers/zodが必要なので、別途インストールしている
+
